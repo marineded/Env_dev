@@ -1,0 +1,2 @@
+C:\Wrkfldr\LAbo2\AppLabo3\AppLabo3\AppLabo3.csproj;x86
+C:\Wrkfldr\LAbo2\AppLabo3\Model\Model.csproj;x86

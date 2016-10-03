@@ -1,0 +1,17 @@
+C:\Wrkfldr\LAbo2\AppLabo3\Model\bin\x86\Debug\Model.dll
+C:\Wrkfldr\LAbo2\AppLabo3\Model\bin\x86\Debug\Model.pdb
+C:\Wrkfldr\LAbo2\AppLabo3\Model\bin\x86\Debug\Model.pri
+C:\Wrkfldr\LAbo2\AppLabo3\Model\obj\x86\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Wrkfldr\LAbo2\AppLabo3\Model\obj\x86\Debug\Model.dll
+C:\Wrkfldr\LAbo2\AppLabo3\Model\obj\x86\Debug\Model.pdb
+C:\Wrkfldr\LAbo2\AppLabo3\Model\obj\x86\Debug\priconfig.xml
+C:\Wrkfldr\LAbo2\AppLabo3\Model\obj\x86\Debug\priconfig.xml.intermediate
+C:\Wrkfldr\LAbo2\AppLabo3\Model\obj\x86\Debug\layout.resfiles
+C:\Wrkfldr\LAbo2\AppLabo3\Model\obj\x86\Debug\layout.resfiles.intermediate
+C:\Wrkfldr\LAbo2\AppLabo3\Model\obj\x86\Debug\resources.resfiles
+C:\Wrkfldr\LAbo2\AppLabo3\Model\obj\x86\Debug\resources.resfiles.intermediate
+C:\Wrkfldr\LAbo2\AppLabo3\Model\obj\x86\Debug\pri.resfiles
+C:\Wrkfldr\LAbo2\AppLabo3\Model\obj\x86\Debug\pri.resfiles.intermediate
+C:\Wrkfldr\LAbo2\AppLabo3\Model\obj\x86\Debug\qualifiers.txt
+C:\Wrkfldr\LAbo2\AppLabo3\Model\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Wrkfldr\LAbo2\AppLabo3\Model\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
