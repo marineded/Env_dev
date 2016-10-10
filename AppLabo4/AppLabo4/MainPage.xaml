@@ -10,6 +10,22 @@
     DataContext="{Binding Source={StaticResource Locator},Path=Main}">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="Auto"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <AppBarButton x:Name="EditStudent" Grid.Column="0" Icon="Edit" Command="{Binding EditStudentCommand}"></AppBarButton>
+        <ListView Grid.Row ="0" Grid.Column="1" 
+                  Width="355" HorizontalAlignment="Left"
+                  ItemsSource="{Binding Students, Mode=TwoWay}"
+                  SelectedItem="{Binding SelectedStudent, Mode=TwoWay}"
+                  Margin="0,35.167,0,-35">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Name}"/>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
     </Grid>
+
 </Page>
